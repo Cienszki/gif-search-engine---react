@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+body {
+	background: linear-gradient(to right, #ffeeee, #ddefbb);
+	font-family: 'Abel', sans-serif;
+}
